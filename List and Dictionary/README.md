@@ -10,7 +10,7 @@ This project demonstrates the **fundamentals of Lists and Dictionaries in Python
 It’s perfect for beginners learning how to **store, access, and manipulate data efficiently**.
 
 📁 **Notebook File:** `List & Dict.ipynb`  
-🧠 **Focus Areas:** Python Basics, Lists, Dictionaries, Loops, and Functions  
+🧠 **Focus Areas:** Python Basics, Lists, Dictionaries  
 
 ---
 
@@ -33,3 +33,19 @@ Dictionaries store data as key–value pairs, allowing fast lookups and updates.
 - Defined using `{}`
 - Keys must be unique
 - Mutable and unordered
+
+----
+
+## 🧠 Learning Objectives
+By exploring this notebook, you will:
+
+- Understand the structure and use of Lists and Dictionaries
+- Learn to iterate, access, and modify data efficiently
+- Combine loops and functions for real-world applications
+
+----
+
+## 🏁 Conclusion
+
+This project offers a clear and practical understanding of Python’s most essential data structures : Lists and Dictionaries.
+Mastering these concepts will strengthen your foundation in data analysis and programming.
