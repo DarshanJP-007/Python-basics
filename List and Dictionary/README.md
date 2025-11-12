@@ -1,33 +1,35 @@
-# 🐍 Python Lists and Dictionaries
-
-This project explains and demonstrates the **fundamentals of Lists and Dictionaries in Python** using a Jupyter Notebook.  
-It is designed for beginners learning **Python data structures** and includes practical examples and exercises.
-
----
-
-## 📘 Project Overview
-
-The notebook **`List & Dict.ipynb`** covers:
-
-- Understanding Python **Lists** and **Dictionaries**
-- Basic operations and methods
-- Real-world examples
-- Hands-on exercises for practice
-
-This repository helps you learn how to **store, access, and manipulate data** efficiently in Python.
+<!-- HEADER -->
+<h1 align="center">🐍 Python Lists & Dictionaries</h1>
+<h3 align="center">Understanding Core Python Data Structures with Hands-on Examples</h3>
 
 ---
 
-## 🧩 Concepts Covered
+## 📘 Overview
 
-### 🔹 Lists
-A **list** is an ordered, mutable collection used to store multiple items.  
-You can store different data types in a list and modify elements easily.
+This project demonstrates the **fundamentals of Lists and Dictionaries in Python** through a Jupyter Notebook.  
+It’s perfect for beginners learning how to **store, access, and manipulate data efficiently**.
 
-**Examples:**
-```python
-fruits = ["apple", "banana", "cherry"]
-fruits.append("orange")       # Add item
-print(fruits[1])              # Access by index
-print(len(fruits))            # Get list length
+📁 **Notebook File:** `List & Dict.ipynb`  
+🧠 **Focus Areas:** Python Basics, Lists, Dictionaries, Loops, and Functions  
 
+---
+
+## 🧩 Topics Covered
+
+### 🔹 **Lists**
+Lists are **ordered, mutable collections** used to store multiple items.  
+They can hold elements of different data types and support powerful operations.
+
+🟢 **Key Points:**
+- Defined using `[ ]`
+- Mutable (can be changed)
+- Supports indexing and slicing
+
+
+### 🔹 **Dictionaries**
+Dictionaries store data as key–value pairs, allowing fast lookups and updates.
+
+🟢 **Key Points:**
+- Defined using `{}`
+- Keys must be unique
+- Mutable and unordered
